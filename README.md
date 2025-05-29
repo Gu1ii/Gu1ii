@@ -1,4 +1,4 @@
-## Ola muito prazer, eu sou o Guilherme!! 👋
+## Olá muito prazer, eu sou o Guilherme!! 👋
 <div>
 <a href="https://github.com/Gu1ii">
 <img height="180em" src="http://github-readme-stats.vercel.app/api?username=Gu1ii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
