@@ -15,7 +15,7 @@
 ##
 
 
-- 🔭 Trabalho hoje como Técnico de imperssoa
+- 🔭 Trabalho hoje como Estagiario na Area de T.I 
 - 🌱 Atualmente estou estudando C#
 - 😄 Pronouns: ele/dele
 
